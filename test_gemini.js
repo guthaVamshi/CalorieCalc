@@ -1,4 +1,4 @@
-const apiKey = 'AIzaSyBVZWLgW3kP_zZhZlXVHZZPwi9dyhkgT0o';
+const apiKey = '';
 
 async function test() {
   const body = {
